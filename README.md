@@ -1,7 +1,7 @@
 # SVG
 ![SVG Image](svg.png)
 
-SVG Graphics and Animations:
+## SVG Graphics and Animations:
 
 SVG, which stands for Scalable Vector Graphics, is an XML-based markup language for describing two-dimensional vector graphics. SVG is used to define graphics for the Web and is a W3C standard. The main features and benefits of SVG include:
 
@@ -26,7 +26,7 @@ SVG elements can be styled with CSS, allowing for a separation of presentation a
 7. DOM Interface
 SVG elements are part of the Document Object Model (DOM), which means they can be accessed and manipulated using JavaScript just like HTML elements. This enables dynamic changes to the graphics based on user interaction or other conditions.
 
-Use Cases
+## Use Cases
 
 Logos and icons that need to scale cleanly at any size.
 Charts, diagrams, and visualizations that benefit from being scalable and interactive.
